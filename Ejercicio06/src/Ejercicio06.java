@@ -27,7 +27,7 @@ public class Ejercicio06 {
     
     boolean resultado = ((var1 / var2) == comparador1) && (Math.pow(base, exponente) > comparador2);
     
- 
+    System.out.println("25 == 25 y 49 > 50");
     System.out.println(resultado);   
     }
     
