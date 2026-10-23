@@ -23,6 +23,7 @@ public class Ejercicio04 {
     // Al ser una división exacta, funciona perfectamente con enteros
     boolean resultado = ((var1 + var2) / var3) > var4;
     
+    System.out.println("20>15");
     System.out.println(resultado);
     }
     
