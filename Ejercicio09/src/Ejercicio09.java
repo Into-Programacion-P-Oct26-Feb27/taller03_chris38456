@@ -23,8 +23,6 @@ public class Ejercicio09 {
     int var5 = 4;
     int comparador = 30;
 
-    // --- DESGLOSE PASO A PASO ---
-
     // Paso 2: Resolver la primera parte (√225 + 5² < 50)
     int raizParte1 = (int) Math.sqrt(var1);               
     int potenciaParte1 = (int) Math.pow(var2, var3);      
